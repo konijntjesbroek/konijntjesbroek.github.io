@@ -12,5 +12,20 @@ html{
 body{
   padding: 0px;
   margin: 0px;
-  background-color: '#ffeecc';
+  background-color: #ffeecc;
+}
+
+header{
+}
+
+maiin{   
+}
+
+footer{
+  margin-top: 1rem;
+  padding-top: .25rem;
+  padding-left: 3rem;
+  font-style: italic;
+  font-weight: extralight;
+  font-size: .85rem;
 }
