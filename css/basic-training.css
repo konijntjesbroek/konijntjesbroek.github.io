@@ -32,6 +32,7 @@ aside{
   vertical-align: top;
   float: right;
   width: 25vw;
+  margin-left: 1rem;
   border-left: .1rem solid;
 }
 
