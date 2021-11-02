@@ -62,7 +62,7 @@ aside li li:nth-child(odd) {
 
 @font-face {
     font-family: 'lintsecregular';
-    src: url('/fonts/lintsec/Lintsec-webfont.woff') format('woff');
+    src: url('/fonts/Lintsec-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
