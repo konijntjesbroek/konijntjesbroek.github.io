@@ -1,39 +1,62 @@
-/*
-    base.css
-    created by:   Arlo Gittings
-    created on:   2021-10-22
-    last updated: 2021-10-22
-*/
-html{
-  font-family: 'sans-serif';
-  font-size: 20px;
+@font-face{
+  font-family:OpenDyslexic;
+  src: url("../fonts/OpenDyslexicMono-Regular.otf");
 }
 
-body{
-  padding: 0px;
-  margin: 0px;
-  background-color: #fcfff5;
-  color: #303050;
+body {
+  font-family: OpenDyslexic;
+  background-color: #151500;
+  color: #c5a525;
 }
 
-header{
-  background-color: #303050;
-  color: #fcfff5;
-  padding: .25rem 3rem;
-  margin-bottom: 1rem;
+.nav{
+  background-color: #151500;
+  color: #c5a525;
+  text-decoration: none;
+  padding-left: 5%;
 }
 
-main{   
-    width: 75%;
-    margin-left: 15%;
+a.nav:hover{
+  color: #f5f595;
+  /* text-decoration: underline; */
+}
+  
+
+h1{
+  background-color: #c5a525;
+  color: #151500;
+  text-align: right;
+  padding-right: 5%;
+  
 }
 
-footer{
-  margin-top: 1rem;
-  padding-top: .25rem;
-  padding-left: 3rem;
-  font-style: italic;
-  font-weight: extralight;
-  font-size: .75rem;
-  border-top: 2px solid;
+#logo{
+  height: 51px;
+  width: 51px;
+  vertical-align: middle;
+  margin: 10px;
+}
+
+#logo:hover{
+  content: url("../images/glider.png");
+}
+
+h2{
+  padding-left: 5%;
+}
+
+article{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+article > a:link, 
+article > a:visited,
+article > p > a:link,
+article > p > a:visited{
+  color: #c5a525;
+}
+
+article > ol {
+  padding-left: 4em;
 }
