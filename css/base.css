@@ -7,6 +7,8 @@ body {
   font-family: OpenDyslexic;
   background-color: #151500;
   color: #c5a525;
+  padding: 0px;
+  margin: 0px;
 }
 
 .nav{
