@@ -5,6 +5,14 @@ _last revised_: 2025.07.04
 ### Description
 Base URL for research and projects:
 Key areas of intent:
+  HairBrained Concepts:
+    project tracking
+    encouragement/optimism
+    cool new things I find on the internet
+    linux knowledge
+    webdev
+    gallery/design principles
+    elb docs
   builtGoodGuitars:
     Guitar Setup
       general
