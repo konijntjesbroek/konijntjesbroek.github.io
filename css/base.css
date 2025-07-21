@@ -60,3 +60,7 @@ article > p > a:visited{
 article > ol {
   padding-left: 4em;
 }
+
+article > details > summary {
+  font-size: 200%;
+}

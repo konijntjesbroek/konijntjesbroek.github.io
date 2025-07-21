@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <link rel="stylesheet" href="/css/base.css">
+  </head>
+  <body>
+    <header>
+    <h1>HairBrained Concepts<a href="/"><img id='logo' 
+        src="/images/glider-bright.png" alt="glider home"></a></h1>
+    <a href="/projects/" class="nav">The Projects</a>
+    <a href="/colophon/" class="nav">The Page</a>
+    <a href="/cv/" class="nav">The Arlo</a>
+    </header>
+    <main>
+
