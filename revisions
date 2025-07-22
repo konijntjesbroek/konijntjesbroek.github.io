@@ -1,6 +1,9 @@
-2025.07.20	214902  added outline and readme file, created scripts
-                    directory
-            231808  added update for design, css for summary
-2025.07.21	021352  added gapkiller css to body
-            022216  added margin 0px to h1
-            024851  filled out projects default
+date        time  action                                               actor
+=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
+2025.07.20	2149  added outline and readme file, created scripts       arlo
+                  directory                                         
+            2318  added update for design, css for summary             arlo
+2025.07.21	0213  added gapkiller css to body                          arlo
+            0222  added margin 0px to h1                               arlo
+            0248  filled out projects default                          arlo
+2025.07.22	1559  lpic update, fixed revisions                         arlo
