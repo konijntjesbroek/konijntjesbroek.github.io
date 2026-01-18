@@ -66,6 +66,8 @@ h3 > a:link,
 h3 > a:visited,
 article > details > p > a:link,
 article > details > p > a:visited,
+td > a:link,
+td > a:visited,
 #default{
   color: #c5a525;
 }
@@ -78,4 +80,9 @@ article > details > summary {
   margin-left: -5%;
   line-height: 1.15em;
   font-size: 200%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 4rem 0px;
 }

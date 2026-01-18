@@ -15,3 +15,13 @@ date        time  action                                               actor
 2026-01-07  0033  added research section                               arlo
             0058  add new divisions for projects (Python, Stacks)      arlo
             0214  Added booklog and 1st entry                          arlo
+2026.01.13  1625  Split booklog to its own page, changed to a table    arlo
+                  with individual entries for books
+                  Added book review pages by ID
+                  Set style for tables to have 4 spaces between cells  arlo
+2026.01.17	2234  Removed stale default index                          arlo
+            2314  fixed the individual book page for 1.html            arlo
+            2340  added new books to the booklog                       arlo
+          	2346  started rebuilding the stacks                        arlo
+2026.01.18	0039  pushed weekly update, made a link to the book log    arlo
+
