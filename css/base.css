@@ -86,3 +86,12 @@ table {
   border-collapse: separate;
   border-spacing: 4rem 0px;
 }
+.content {
+  display: inline flex;
+  justify-content: space-between
+}
+
+.content div {
+  margin-right: 5%;
+  flex: 1 1 30%;
+}
